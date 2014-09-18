@@ -10,7 +10,7 @@ namespace MyFirstApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is me on the feature branch!");
+            Console.WriteLine("This is me on the feature branch! Merged into trunk");
         }
     }
 }
