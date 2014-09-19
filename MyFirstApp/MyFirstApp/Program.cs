@@ -22,11 +22,11 @@ namespace MyFirstApp
         }
 
         /// <summary>
-        /// The master branch change
+        /// The master branch change - then edited on feature
         /// </summary>
         static void PrintMeMaster()
         {
-            Console.WriteLine("This is an addition on the master branch!");
+            Console.WriteLine("This is an addition on the master branch! - then edited to feature");
         }
 
         /// <summary>
