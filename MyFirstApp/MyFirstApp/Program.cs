@@ -12,5 +12,13 @@ namespace MyFirstApp
         {
             Console.WriteLine("This is me on the feature branch! Merged into trunk");
         }
+
+        /// <summary>
+        /// The master branch change
+        /// </summary>
+        static void PrintMeMaster()
+        {
+            Console.WriteLine("This is an addition on the master branch!");
+        }
     }
 }
