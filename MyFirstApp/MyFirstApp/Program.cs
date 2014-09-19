@@ -36,5 +36,10 @@ namespace MyFirstApp
         {
             Console.WriteLine("This is a second addition on the master branch");
         }
+
+        static void Blah()
+        {
+            Console.WriteLine("Just messing about on local master");
+        }
     }
 }
