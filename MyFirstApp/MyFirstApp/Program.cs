@@ -16,9 +16,25 @@ namespace MyFirstApp
         /// <summary>
         /// Feature branch addition
         /// </summary>
-        static void PrintMe()
+        private static void PrintMe()
         {
             Console.WriteLine("This was added in the feature branch!");
+        }
+
+        /// <summary>
+        /// The master branch change
+        /// </summary>
+        static void PrintMeMaster()
+        {
+            Console.WriteLine("This is an addition on the master branch!");
+        }
+
+        /// <summary>
+        /// The second addition on the master branch
+        /// </summary>
+        static void PrintMeMaster2()
+        {
+            Console.WriteLine("This is a second addition on the master branch");
         }
     }
 }
