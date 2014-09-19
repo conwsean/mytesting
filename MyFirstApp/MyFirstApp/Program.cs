@@ -20,5 +20,13 @@ namespace MyFirstApp
         {
             Console.WriteLine("This is an addition on the master branch!");
         }
+
+        /// <summary>
+        /// The second addition on the master branch
+        /// </summary>
+        static void PrintMeMaster2()
+        {
+            Console.WriteLine("This is a second addition on the master branch");
+        }
     }
 }
