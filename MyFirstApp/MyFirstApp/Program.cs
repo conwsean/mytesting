@@ -22,6 +22,14 @@ namespace MyFirstApp
         }
 
         /// <summary>
+        /// This is me on feature 2
+        /// </summary>
+        static void PrintFeature2()
+        {
+            Console.WriteLine("This is a feature 2 addition!");
+        }
+
+        /// <summary>
         /// The second addition on the master branch
         /// </summary>
         static void PrintMeMaster2()
