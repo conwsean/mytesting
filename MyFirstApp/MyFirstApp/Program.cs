@@ -18,7 +18,7 @@ namespace MyFirstApp
         /// </summary>
         private static void PrintMe()
         {
-            Console.WriteLine("This was added in the feature branch!");
+            Console.WriteLine("This has been updated by a change to the remote feature branch!");
         }
 
         /// <summary>
